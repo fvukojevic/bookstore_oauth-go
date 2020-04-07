@@ -3,7 +3,7 @@ package oauth
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/fvukojevic/bookstore_oauth-go/oauth/errors"
+	"github.com/fvukojevic/bookstore_util-go/utils/errors"
 	"github.com/mercadolibre/golang-restclient/rest"
 	"net/http"
 	"strconv"
